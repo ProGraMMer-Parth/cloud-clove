@@ -7,9 +7,9 @@ const Layout = ({ children }: Children) => {
     <main className="flex items-center justify-center w-full h-screen">
       <div className="flex-1 w-full h-full bg-primary md:flex items-center justify-center p-6 hidden">
         <div>
-          <h1 className={cn("text-white tracking-wider")}>Cloud Clove</h1>
+          <h1 className={cn("text-white tracking-wider")}>Quick Access</h1>
           <P className="text-white">
-            The only solution you ever need for secure files storage.
+            Modern, secure system for organized, private notes and document management.
           </P>
         </div>
       </div>
